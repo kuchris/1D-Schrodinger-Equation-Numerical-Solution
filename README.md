@@ -5,3 +5,5 @@ method. The tri-diagonals method is used to find out the eigenvalues and eigenve
 the bounded Schrodinger equation for an arbitrary potential energy function. For each case, the
 potential function, eigenvector and eigenvalue will be drawn. The main language of the code will
 be written using Python3.
+
+http://dx.doi.org/10.13140/RG.2.2.26129.97127
