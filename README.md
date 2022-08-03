@@ -1,5 +1,4 @@
 # 1D-Schrodinger-Equation-Numerical-Solution
-Config files for my GitHub profile.
 
 The goal of this project is to solve 1D time independent Schrodinger equations using the numerical
 method. The tri-diagonals method is used to find out the eigenvalues and eigenvectors from
